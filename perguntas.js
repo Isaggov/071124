@@ -1,9 +1,6 @@
 criaCartao(
-
     'Matemática',
-    
     'Qual é a raiz quadrada de 121',
-    
     'É 11')
     
     criaCartao(
