@@ -6,6 +6,9 @@
     --preto:#000000;
     --branco:#ffffff;	
 }
-body{
+.body{
     background-color: var(--fundo);
+}
+.footer{
+    
 }
