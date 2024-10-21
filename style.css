@@ -35,5 +35,6 @@ footer{
     background-color: var(--cor-frente);
     height: 100%;
     color: #ffffff;
-    
+    text-align: center;
+    border-radius:20% ;
 }
