@@ -39,3 +39,6 @@ footer{
     padding: 48px;
     color: var(--branco);
 }
+cartao:houver{
+    transform: scale(1.03);
+}
