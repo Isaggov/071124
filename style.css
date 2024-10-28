@@ -10,15 +10,26 @@ body{
     background-color: var(--fundo);
     margin: 0%;
 }
+ header{
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+header a{
+    color: var(--branco);
+}
+    
 footer{
     position: fixed;
-    bottom: 0;
+    bottom: 0 ;
     background-color: var(--preto);
     color: var(--branco);
     width: 100%;
     text-align: center;
     margin: 0%;
 }
+
 #container{
     padding: 4rem;
     display: flex;
